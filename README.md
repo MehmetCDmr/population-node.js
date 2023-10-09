@@ -33,6 +33,8 @@ message
 ○ Should return back a 200 status if the data has updated a state / city that already
 existed and should return back a 201 if the data was created instead of updated.
 
+
+
 ![Screenshot 2023-10-08 at 10 03 13 PM](https://github.com/MehmetCDmr/population-node.js/assets/109488636/2e6acd6a-f40e-43c3-9518-5eb53d284c93)
 
 
