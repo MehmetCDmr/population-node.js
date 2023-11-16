@@ -6,6 +6,7 @@ data as fast as possible. So make sure you write this service with response time
 as the focus when writing your code.
 
 Requirements:
+
 ● Use Node.js v18
 ● Written in plain javascript (no typescript)
 ● Running the command `npm install` will install anything necessary to run the service
